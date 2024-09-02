@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Ambiente Virtual
+venv/
+env/
+ENV/
+*.env
+
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+
+# IDEs e editores
+.vscode/
+.idea/
+*.suo
+*.ncb
+*.sdf
+*.suo
+*.sw?
+
+# Outros
+*.DS_Store
+
+
+Projeto: Gerenciador de Contatos em Python
+
+Descrição: Este projeto é um gerenciador de contatos simples, desenvolvido em Python. O sistema permite ao usuário adicionar contatos, visualizar todos os contatos armazenados e remover um contato específico pelo nome. Cada contato é armazenado como um dicionário contendo o nome, telefone e email.
+
+Objetivo:
+
+Implementar um sistema básico de gerenciamento de contatos.
+Permitir operações de adicionar, exibir e remover contatos.
+Demonstrar o uso de listas e dicionários em Python para armazenar e manipular dados.
+Tecnologias Utilizadas:
+
+Python 3.x
+Como Contribuir:
+
+Siga as instruções no README para contribuir com o projeto.
+Submeta Pull Requests com melhorias ou correções e descreva as mudanças realizadas.
